@@ -1,47 +1,39 @@
-# Hi, I'm Santhishni Sakthivel 👋
+ Hi, I'm Santhishni Sakthivel
 
-## 👩‍💻 About Me
+ About Me
 
-- 🎓 Medical Electronics Student
-- 🐍 Aspiring Python Developer
-- 🤖 Learning AI, Machine Learning & LLM Testing
-- 💾 Learning PostgreSQL & Snowflake
-- 🌱 Currently building real-world Python projects
-- 🚀 Looking for opportunities in Python Development and AI Testing
+I am a Medical Electronics student with a strong interest in Python development, Artificial Intelligence, and Data Engineering. I enjoy building practical projects that combine healthcare and technology while continuously improving my programming skills.
 
----
-
-## 🛠️ Skills
-
+I am currently learning:
 - Python
 - SQL
 - PostgreSQL
 - Snowflake
+- AI / LLM Testing
 - Git & GitHub
-- Machine Learning
-- Data Analysis
-- Problem Solving
 
----
+  Projects
 
-## 🚀 Featured Projects
+  Breast Cancer Prediction App
+A machine learning application that predicts breast cancer based on diagnostic data using Python.
 
-### 🩺 Breast Cancer Prediction App
-AI-powered application for breast cancer prediction using Machine Learning.
+  Upcoming Projects
+- Python Mini Projects
+- SQL Practice Repository
+- PostgreSQL Practice
+- Snowflake Practice
+- AI/LLM Testing Scenarios
+- Data Analysis Projects
 
-### 💻 Python Projects
-A collection of Python projects to improve programming and problem-solving skills.
+  Goals
 
----
-
-## 🎯 Current Goals
-
-- Master Python Development
-- Build 20+ Python Projects
-- Learn PostgreSQL & Snowflake
-- Learn AI / LLM Testing
 - Become a Python Developer
+- Build 20+ real-world Python projects
+- Master SQL and PostgreSQL
+- Learn Snowflake
+- Start contributing to open-source projects
 
----
+  Contact
 
-⭐ Thanks for visiting my GitHub profile!
+- LinkedIn: (Add after we complete your LinkedIn profile)
+- GitHub: https://github.com/santhishni
