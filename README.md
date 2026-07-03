@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Santhishni Sakthivel 👋
 
-<!--
-**santhishni/santhishni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Medical Electronics Student
+- 🐍 Aspiring Python Developer
+- 🤖 Learning AI, Machine Learning & LLM Testing
+- 💾 Learning PostgreSQL & Snowflake
+- 🌱 Currently building real-world Python projects
+- 🚀 Looking for opportunities in Python Development and AI Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- PostgreSQL
+- Snowflake
+- Git & GitHub
+- Machine Learning
+- Data Analysis
+- Problem Solving
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Breast Cancer Prediction App
+AI-powered application for breast cancer prediction using Machine Learning.
+
+### 💻 Python Projects
+A collection of Python projects to improve programming and problem-solving skills.
+
+---
+
+## 🎯 Current Goals
+
+- Master Python Development
+- Build 20+ Python Projects
+- Learn PostgreSQL & Snowflake
+- Learn AI / LLM Testing
+- Become a Python Developer
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
